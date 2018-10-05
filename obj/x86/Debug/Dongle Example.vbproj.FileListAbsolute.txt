@@ -1,0 +1,47 @@
+C:\Documents and Settings\gcdc\my documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Documents and Settings\gcdc\my documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Documents and Settings\gcdc\my documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Documents and Settings\gcdc\my documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Documents and Settings\gcdc\my documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Documents and Settings\gcdc\my documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Documents and Settings\gcdc\my documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\gcdc\my documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmMain.resources
+C:\Documents and Settings\gcdc\my documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\gcdc\my documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\gcdc\my documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\DongleExample\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\DongleExample\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\DongleExample\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\DongleExample\WindowsApplication1\bin\Debug\DongleExample.exe
+D:\DongleExample\WindowsApplication1\bin\Debug\DongleExample.pdb
+D:\DongleExample\WindowsApplication1\bin\Debug\DongleExample.xml
+D:\DongleExample\WindowsApplication1\obj\x86\Debug\DongleExample.frmMain.resources
+D:\DongleExample\WindowsApplication1\obj\x86\Debug\DongleExample.Resources.resources
+D:\DongleExample\WindowsApplication1\obj\x86\Debug\DongleExample.exe
+D:\DongleExample\WindowsApplication1\obj\x86\Debug\DongleExample.xml
+D:\DongleExample\WindowsApplication1\obj\x86\Debug\DongleExample.pdb
+D:\vbProjects\dongle\obj\x86\Debug\DongleExample.exe
+D:\vbProjects\dongle\obj\x86\Debug\DongleExample.xml
+D:\vbProjects\dongle\obj\x86\Debug\DongleExample.pdb
+D:\vbProjects\dongle\bin\Debug\DongleExample.exe
+D:\vbProjects\dongle\bin\Debug\DongleExample.pdb
+D:\vbProjects\dongle\bin\Debug\DongleExample.xml
+D:\vbProjects\dongle\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\vbProjects\dongle\obj\x86\Debug\DongleExample.frmMain.resources
+D:\vbProjects\dongle\obj\x86\Debug\DongleExample.Resources.resources
+D:\vbProjects\dongle\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\vbProjects\dongle\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\vbProjects\Development\obj\x86\Debug\DongleExample.xml
+D:\vbProjects\Development\obj\x86\Debug\DongleExample.pdb
+D:\vbProjects\Development\bin\Debug\DongleExample.exe
+D:\vbProjects\Development\bin\Debug\DongleExample.pdb
+D:\vbProjects\Development\bin\Debug\DongleExample.xml
+D:\vbProjects\Development\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\vbProjects\Development\obj\x86\Debug\DongleExample.frmMain.resources
+D:\vbProjects\Development\obj\x86\Debug\DongleExample.Resources.resources
+D:\vbProjects\Development\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\vbProjects\Development\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\vbProjects\Development\obj\x86\Debug\DongleExample.exe
+E:\Development\Harald\Example_VB_for_SSP\code\obj\x86\Debug\DongleExample.exe
+E:\Development\Harald\Example_VB_for_SSP\code\obj\x86\Debug\DongleExample.xml
+E:\Development\Harald\Example_VB_for_SSP\code\obj\x86\Debug\DongleExample.pdb
